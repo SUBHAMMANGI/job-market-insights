@@ -127,7 +127,7 @@ The dashboard visualizes key labor market insights such as:
 
 ### Dashboard Preview
 
-![Dashboard Preview](dashboards/Executive_Dashboard.png)
+![Dashboard Preview](dashboards/dashboard_preview.png)
 
 ---
 ## ▶️ How to Run Locally
@@ -159,6 +159,7 @@ MS Business Analytics & AI — UT Dallas
 Data Analytics | Data Engineering | Business Intelligence
 
 LinkedIn: https://www.linkedin.com/in/subhammangi/
+
 
 
 
