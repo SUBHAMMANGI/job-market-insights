@@ -111,8 +111,25 @@ job-market-intelligence/
 - Dashboard-driven storytelling
 - Production-style project structure
 
+
 ---
 
+## 📊 Dashboard
+
+The project includes an interactive **Power BI dashboard** built on top of the PostgreSQL analytics warehouse.
+
+The dashboard visualizes key labor market insights such as:
+
+- Hiring trends over time
+- Most in-demand skills
+- Salary distribution analysis
+- Role and location-based job demand
+
+### Dashboard Preview
+
+![Dashboard Preview](dashboards/dashboard_preview.png)
+
+---
 ## ▶️ How to Run Locally
 
 ### 1. Clone repository
@@ -142,5 +159,6 @@ MS Business Analytics & AI — UT Dallas
 Data Analytics | Data Engineering | Business Intelligence
 
 LinkedIn: https://www.linkedin.com/in/subhammangi/
+
 
 
