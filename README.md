@@ -121,7 +121,8 @@ git clone https://github.com/YOUR_USERNAME/job-market-intelligence.git
 cd job-market-intelligence
 
 ### 2. Install dependencies
-pip install -r requirements.txt
+```
+pip instal -r requirements.txt
 
 ### 3. Configure environment variables
 Create .env file:
@@ -142,3 +143,4 @@ MS Business Analytics & AI — UT Dallas
 Data Analytics | Data Engineering | Business Intelligence
 
 LinkedIn: https://linkedin.com/in/subhammangi
+
