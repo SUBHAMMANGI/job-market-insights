@@ -117,10 +117,10 @@ job-market-intelligence/
 
 ### 1. Clone repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/job-market-intelligence.git
+git clone https://github.com/SUBHAMMANGI/job-market-intelligence.git
 cd job-market-intelligence
 
-### 2. Install dependencies
+**2. Install dependencies**
 ```
 pip instal -r requirements.txt
 
@@ -143,6 +143,7 @@ MS Business Analytics & AI — UT Dallas
 Data Analytics | Data Engineering | Business Intelligence
 
 LinkedIn: https://linkedin.com/in/subhammangi
+
 
 
 
