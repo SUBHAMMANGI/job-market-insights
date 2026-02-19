@@ -2,7 +2,7 @@
 
 A real-time data analytics platform that collects, processes, and analyzes U.S. job market data to generate actionable labor market insights using Python, SQL, PostgreSQL, and Power BI.
 
-This project simulates an end-to-end production analytics pipeline - from data ingestion to business-ready dashboards - similar to real-world data engineering and business intelligence workflows.
+This project simulates an end-to-end production analytics pipeline — from data ingestion to business-ready dashboards — similar to real-world data engineering and business intelligence workflows.
 
 ---
 
@@ -119,11 +119,11 @@ job-market-intelligence/
 ```bash
 git clone https://github.com/YOUR_USERNAME/job-market-intelligence.git
 cd job-market-intelligence
- 
-### 2.Install dependencies
+
+### 2. Install dependencies
 pip install -r requirements.txt
 
-### 3.Configure environment variables
+### 3. Configure environment variables
 Create .env file:
 DB_HOST=localhost
 DB_PORT=5432
@@ -131,7 +131,8 @@ DB_NAME=jobmarket
 DB_USER=postgres
 DB_PASSWORD=yourpassword
 
-### 4.Run pipeline
+### 4. Run pipeline
+
 python run_pipeline.py
 
 👨‍💻 Author
@@ -141,4 +142,3 @@ MS Business Analytics & AI — UT Dallas
 Data Analytics | Data Engineering | Business Intelligence
 
 LinkedIn: https://linkedin.com/in/subhammangi
-
