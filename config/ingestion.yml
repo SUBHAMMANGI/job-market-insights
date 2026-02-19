@@ -1,0 +1,27 @@
+source: adzuna
+country: us
+
+queries:
+  keywords:
+    - "Data Analyst"
+    - "Business Intelligence"
+    - "Analytics"
+  locations_file: "config/us_states.txt"
+
+batching:
+  enabled: true
+  batch_size_locations: 5
+  batch_state_file: "config/batch_state.json"
+
+fresh_sweep:
+  enabled: true
+  results_per_page: 10
+  sleep_seconds_between_calls: 1
+  keyword_state_file: "config/keyword_state.json"
+
+api:
+  results_per_page: 50
+  sort_by: "date"
+  timeout_seconds: 30
+  sleep_seconds_between_calls: 2
+  max_calls_per_run: 20
