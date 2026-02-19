@@ -120,8 +120,8 @@ job-market-intelligence/
 git clone https://github.com/SUBHAMMANGI/job-market-intelligence.git
 cd job-market-intelligence
 
-**2. Install dependencies**
 ```
+### 2. Install dependencies
 pip instal -r requirements.txt
 
 ### 3. Configure environment variables
@@ -133,7 +133,6 @@ DB_USER=postgres
 DB_PASSWORD=yourpassword
 
 ### 4. Run pipeline
-
 python run_pipeline.py
 
 👨‍💻 Author
@@ -142,8 +141,6 @@ Subham Mangi
 MS Business Analytics & AI — UT Dallas
 Data Analytics | Data Engineering | Business Intelligence
 
-LinkedIn: https://linkedin.com/in/subhammangi
-
-
+LinkedIn: https://www.linkedin.com/in/subhammangi/
 
 
